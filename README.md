@@ -6,4 +6,5 @@ Other interests include; tackling scalability problems, debating software archit
 
 I like to document my learnings in the forms of small problem-centric projects, please check them out!
 - [Use case of `FOREIGN DATA` in Postgres](https://github.com/suessflorian/postgres-query-federation)
+- [Logical Postgres Replication](https://github.com/suessflorian/postgres-logical-replication)
 - [Tackling scalable process management](https://github.com/suessflorian/postgres-query-federation)
