@@ -8,3 +8,5 @@ I like to document my learnings in the forms of small problem-centric projects, 
 - [Use case of `FOREIGN DATA` in Postgres](https://github.com/suessflorian/postgres-query-federation)
 - [Logical Postgres Replication](https://github.com/suessflorian/postgres-logical-replication)
 - [Tackling scalable process management](https://github.com/suessflorian/scalable-process-manager)
+
+You'll see me hanging out on [math stack exchange](https://math.stackexchange.com/users/427733/florian-suess) and [stack overflow](https://stackoverflow.com/users/5442960/florian-suess) occasionally too.
